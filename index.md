@@ -8,10 +8,6 @@ Assignment 07
 
 GitHubURL :- https://github.com/upd-neetu/IntroToProg-Python-Mod07.
 
-GitHub Webpage :-
-
-
-
 Basic Writing and Executing a Python Script
 
 Introduction
